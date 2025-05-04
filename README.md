@@ -18,8 +18,8 @@ A comprehensive and interactive toolbox of statistical methods using Python. Thi
 Each topic is provided as a Jupyter Notebook. You can open any notebook using **Google Colab** by clicking the "Open in Colab" badge inside each notebook.
 
 ## 📁 Structure
-statistical-toolbox/
 
+statistical-toolbox/
 ├── README.md
 ├── index.ipynb
 ├── notebooks/
