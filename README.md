@@ -19,33 +19,22 @@ Each topic is provided as a Jupyter Notebook. You can open any notebook using **
 
 ## 📁 Structure
 
-statistical-toolbox
+Statistical-toolbox
 
 ├── README.md
 
 ├── index.ipynb
 
-├── notebooks/
-
+├── notebooks
 │ ├── descriptive_statistics.ipynb
-
 │ ├── probability_distribution.ipynb
-
 │ ├── hypothesis_testing.ipynb
-
 │ ├── regression_analysis.ipynb
-
 │ ├── ANOVA.ipynb
-
 │ ├── chisquaretests.ipynb
-
 │ ├── time_series.ipynb
-
 │ ├── binomial_and_poisson.ipynb
-
 │ ├── real_world_problems.ipynb
-
-
 
 
 ## 📎 License
