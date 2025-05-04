@@ -25,7 +25,7 @@ Statistical-toolbox
 
 ├── index.ipynb
 
-├── notebooks
+├── notebooks/
 │ ├── descriptive_statistics.ipynb
 │ ├── probability_distribution.ipynb
 │ ├── hypothesis_testing.ipynb
