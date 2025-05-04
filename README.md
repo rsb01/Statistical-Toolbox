@@ -11,29 +11,10 @@ A comprehensive and interactive toolbox of statistical methods using Python. Thi
 - Chi-Square Tests
 - Time Series
 - Binomial & Poisson Applications
-- Real-world Projects
-- Interactive Dashboards
+- Visualization Tools
 
 ## 🚀 How to Use
 Each topic is provided as a Jupyter Notebook. You can open any notebook using **Google Colab** by clicking the "Open in Colab" badge inside each notebook.
-
-## 📁 Structure
-
-Statistical-toolbox
-
-├── README.md
-├── index.ipynb
-├── notebooks/
-│ ├── descriptive_statistics.ipynb
-│ ├── probability_distribution.ipynb
-│ ├── hypothesis_testing.ipynb
-│ ├── regression_analysis.ipynb
-│ ├── ANOVA.ipynb
-│ ├── chisquaretests.ipynb
-│ ├── time_series.ipynb
-│ ├── binomial_and_poisson.ipynb
-│ ├── real_world_problems.ipynb
-
 
 ## 📎 License
 This project is licensed under the MIT License.
