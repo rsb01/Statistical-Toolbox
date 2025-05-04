@@ -19,6 +19,7 @@ Each topic is provided as a Jupyter Notebook. You can open any notebook using **
 
 ## 📁 Structure
 statistical-toolbox/
+
 ├── README.md
 ├── index.ipynb
 ├── notebooks/
