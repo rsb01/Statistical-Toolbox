@@ -22,9 +22,7 @@ Each topic is provided as a Jupyter Notebook. You can open any notebook using **
 Statistical-toolbox
 
 ├── README.md
-
 ├── index.ipynb
-
 ├── notebooks/
 │ ├── descriptive_statistics.ipynb
 │ ├── probability_distribution.ipynb
